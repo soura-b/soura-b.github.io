@@ -29,6 +29,7 @@ Can a low-investment business, launched swiftly, lay the foundation for a high-i
 Can the low-investment business be entirely debt-funded? Will the cashflow  generated be adequate for repaying the debt?
 If my cash flow proves insufficient for debt repayment, does my business even have a viable path to profitability?
 
+### Footnotes
 [^1]: These numbers are illustrative only. Readers based in the US can replace “Rs lakhs” with “US$ thousand”.
 [^2]: We actively pursued product ideas for three years, but finally exited the product business in 2018. That journey might become the subject of another essay.
 [^3]: Take on, not qualify for. In other words, a loan amount that I could pay off if I switched to a job. A useful rule of thumb is to limit housing loans to a third of monthly income. The same rule can be adapted to a business loan — limit debt repayment outflow to 25% of monthly cash inflow.  
