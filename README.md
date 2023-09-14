@@ -17,5 +17,7 @@ Available on Amazon.com
 
 <img src = "https://github.com/soura-b/soura-b.github.io/assets/20471068/1b946035-c98a-42b5-9ab6-19b9451bf612" alt="Head, Heart and Hands book cover" width="200">
 
+---
+
 > [!Note]
 > _soura.org redirects here_
