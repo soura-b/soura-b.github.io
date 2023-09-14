@@ -1,5 +1,3 @@
-soura.org redirects here
-
 # Essays
 [Raising funds](essays/raisingFunds.md) `2023-09-10`  
 Is debt a viable option?
@@ -16,3 +14,8 @@ An awfully stretched over version of a dad joke
 # Book
 [Head, Heart and Hands: A handbook on leading and managing organizations](https://www.amazon.com/dp/B0CFRDTV12) `2023-08-14`     
 Available on Amazon.com
+
+<img src = "https://github.com/soura-b/soura-b.github.io/assets/20471068/1b946035-c98a-42b5-9ab6-19b9451bf612" alt="Head, Heart and Hands book cover" width="200">
+
+> [!Note]
+> _soura.org redirects here_
