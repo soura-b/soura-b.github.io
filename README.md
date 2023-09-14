@@ -8,3 +8,6 @@ Are they necessarily different?
 
 [The Magic of Sant Kabir](kabirVaani.md) `2023-08-28`  
 Profound yet accessible
+
+[The Tale of Younger and Elder](youngerAndElder.md) `2021-02-04`
+An awfully stretched over version of a dad joke
