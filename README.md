@@ -19,5 +19,4 @@ Available on Amazon.com
 
 ---
 
-> [!Note]
 > _soura.org redirects here_
