@@ -1,4 +1,4 @@
-# soura-b.github.io
+# soura.org
 ## Essays
 [Raising funds](raisingFunds.md) `2023-09-10`  
 Is debt a viable option?
