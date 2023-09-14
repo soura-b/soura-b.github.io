@@ -1,5 +1,6 @@
-# soura.org
-## Essays
+soura.org redirects here
+
+# Essays
 [Raising funds](raisingFunds.md) `2023-09-10`  
 Is debt a viable option?
 
