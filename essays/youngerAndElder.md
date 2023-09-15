@@ -28,13 +28,8 @@ Youger's sat frowning and hunched, muttering to himself, "Double... Half... Squa
 
 The next morning, he opened the Flask. Immediately, tarry smoke issued forth, and a voice said "WHO DARES DISTURB... Oh, it is you. Good morning." 
 
-Younger took a deep breath, and said, "Good morning. I want you to beat me half to death."[^2] 
+Younger took a deep breath, and said, "Good morning. I want you to beat me half to death." 
 
  
 ### Footnotes
 [^1]: There is a good deal of Internet debate about the use of whence. Literally, it means "from where". However, "from whence" is used quite as often as "whence" — that is to say, neither of them are used much at all.
-
-[^2]: For those who are more prosaically minded, here is an alternate ending.
-  "There is but one condition. Whatever I grant, your living relatives will receive twice over," said the Voice.  
-  Younger, remembering the most things in life were negotiable, said, "My first wish is that I get 10 wishes."  
-  "Ugh! A lawyer!", the Voice replied, "Alright! Let's settle on 7 boons, not including this one, and no special conditions. Does that please your majesty?"
