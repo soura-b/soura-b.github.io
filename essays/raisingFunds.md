@@ -1,4 +1,8 @@
-# Raising funds
+---
+layout: post
+title: "Raising funds"
+---
+
 When I was at the cusp of starting Lattice, the first question I faced was “What should we do?”. On its heels came the question, “How will we sustain ourselves — now and in the future?”.
 
 In the long term, entrepreneurs must allocate funds to pursue new market opportunities and develop new capabilities. In the short term, founders need sufficient cash to get to break-even.
