@@ -7,13 +7,14 @@ It was middle school that introduced me to Sant Kabir’s _dohas_, or couplets. 
 
 One of the _dohas_ that has stayed in my memory is:
 
-ऐसी वाणी बोलिए मन का आप खोए,  
+ऐसी वाणी बोलिए, मन का आप खोए,  
 औरन को शीतल करे, आपहुं शीतल होए
 
 _Aisi vaani boliye, mann ka aapa khoye,  
 Auron ko sheetal kare, aaphun sheetal hoye._
 
-"_Aapa_" can be roughly translated as "feeling of self", or "ego-sense". So, when we speak without an ego-sense in our minds, then not only do our words sound sweet and calming to others, they also bring us peace. This leads me to the following free translation:  
+"_Aapa_" can be roughly translated as "feeling of self", or "ego-sense". So, when we speak without an ego-sense in our minds, then not only do our words sound sweet and calming to others, they also bring us peace. This leads me to the following free translation:
+
 _Such should be your speech, it pays your ego no mind.  
 The listener is at peace, and peace is what you’ll find._
 
