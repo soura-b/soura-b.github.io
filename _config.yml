@@ -2,7 +2,13 @@ title: Words
 author:
   name: Soura Bhattacharyya
 
-theme: minima
+remote_theme: jekyll/minima@3cdd14d
 
+plugins:
+  - jekyll-remote-theme
+
+minima:
+  skin: dark
+  
 header_pages:
   - about.md
