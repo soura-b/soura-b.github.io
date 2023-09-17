@@ -8,7 +8,7 @@ plugins:
   - jekyll-remote-theme
 
 minima:
-  skin: auto
+  skin: solarized
   
 header_pages:
   - about.md
