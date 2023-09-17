@@ -21,6 +21,11 @@ An awfully stretched out dad joke
 [Head, Heart and Hands: A handbook on leading and managing organizations](https://www.amazon.com/dp/B0CFRDTV12) `2023-08-14`    
 Available on Amazon.com; free for Kindle Unlimited subscribers
 
-<img src = "https://github.com/soura-b/soura-b.github.io/assets/20471068/1b946035-c98a-42b5-9ab6-19b9451bf612" alt="Head, Heart and Hands book cover" width="200">
+<img src = "https://github.com/soura-b/soura-b.github.io/assets/20471068/1b946035-c98a-42b5-9ab6-19b9451bf612" alt="Head, Heart and Hands book cover" width="200">  
 
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
