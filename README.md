@@ -1,4 +1,7 @@
 # Essays
+[On Disruption](essays/onDisruption.md) `2023-09-17`   
+What do Isaac Asimov and Clayton Christensen have in common?
+
 [Raising funds](essays/raisingFunds.md) `2023-09-10`  
 Is debt a viable option?
 
@@ -10,9 +13,6 @@ Profound yet accessible
 
 [The Tale of Younger and Elder](essays/youngerAndElder.md) `2021-02-04`  
 An awfully stretched out dad joke
-
-[On Disruption](essays/onDisruption.md) `2012-01-13`   
-What do Isaac Asimov and Clayton Christensen have in common?
 
 # Book
 [Head, Heart and Hands: A handbook on leading and managing organizations](https://www.amazon.com/dp/B0CFRDTV12) `2023-08-14`    
