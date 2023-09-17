@@ -1,4 +1,8 @@
-# Theory and practice
+---
+layout: post
+title: "Theory and Practice"
+---
+
 > In theory, there is no difference between theory and practice. In practice, there is.
 
 I found this quote from Yogi Berra quite appealing when I first encountered it. Today, I disagree. A theory is not something abstract, removed from reality. Rather, it defines a cause-effect relationship that explains what we practice. A sound understanding of theory is essential to an effective practice of management.
