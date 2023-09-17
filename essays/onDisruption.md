@@ -3,17 +3,17 @@ layout: post
 title: "On Disruption"
 ---
 
-Isaac Asimov and Clayton Christensen are two of my favorite authors, though they write about subjects as different as Trantor and Terminus. What brings them together is the concept of disruptive change.
+Isaac Asimov and Clayton Christensen are two of my favorite authors, though they write about widely differing subjects. What brings them together is the concept of disruptive change.
 
 In Asimov’s epic _Foundation_ series, Trantor is the dying home of the Empire. 
 
 Spoiler alert. Stop here if you haven’t read the Foundation series, take a week off from work, and go get the books. You can thank me later.
 
-So, through the course of the saga, Trantor loses its galactic primacy to Terminus, the seat of the Foundation. I always wanted to use the phrase "galactic primacy" in a blog post.
+Through the course of Asimov's saga, Trantor loses its galactic primacy[^1] to Terminus, the seat of the Foundation.
 
-The Foundation starts small — a hardscrabble group isolated in the deep dark, on a planet with limited physical resources, especially metals. This forces them to innovate, and develop systems, technologies and weapons that work within these constraints. Trantor has fixed city-sized shields; Terminus develops portable shields for individual use.
+The Foundation starts small—a hardscrabble group isolated in the deep dark, on a planet with limited physical resources, especially metals. This forces them to innovate within these constraints. As a consequence, while Trantor has city-sized shields, Terminus develops portable shields for individual use.
 
-This is classic disruptive innovation — a paradigm introduced by Clay Christen in "_The Innovator's Dilemma_", and expanded upon in the "_The Innovator's Solution_". Since then, disruption has been loosely (and incorrectly) used to just about any kind of business or technological change. Asimov's writing, though, provides us with a truthful representation of Christensen's paradigm of disruption.
+This is classic disruptive innovation—a paradigm introduced by Clay Christensen in "_The Innovator's Dilemma_", and expanded upon in the "_The Innovator's Solution_". Since then, disruption has been loosely (and incorrectly) used to just about any kind of business or technological change. Asimov's writing, though, provides us with a truthful representation of Christensen's paradigm of disruption.
 
 Alert #2. If you are involved in technology design, development, or sales, read Christensen's work. Your colleagues can thank me later. 
 
@@ -25,4 +25,8 @@ Incumbents who are invested in the status quo do not see the power of the new te
 
 Every scientific discovery, even if it represents a breakthrough, is not disruptive. A better adhesive tape, or a faster laptop chip, are improvements for existing markets. They do not reach non-consumers. Christensen terms these types of innovations, "sustaining". Classifying innovations as sustaining versus disruptive is not a value judgment; disruption describes a particular path to market dominance.
 
-This path is characterized by systemic change — when a new set of actors find new ways to deliver products & services to non-consumers. In doing so, they trigger fundamental shifts — both technological and societal. Christensen develops this paradigm masterfully, and Asimov explores the societal implications beautifully.
+This path is characterized by systemic change—when a new set of actors find new ways to deliver products & services to non-consumers. In doing so, they trigger fundamental shifts—both technological and societal. Christensen articulates this paradigm eloquently, and Asimov explores the societal implications[^2] beautifully.
+
+### Footnotes
+[^1]: I always wanted to use the phrase "galactic primacy" in a blog post.
+[^2]: Underneath the veneer of science fiction, the _Foundation_ series is masterful socio-political tale. Some say that Asimov was inspired by the rise and fall of the Roman Empire in writing this series. In my humble opinion, he takes it much further&mdash;exploring nuances of the nature of power, jurisprudence, economic interdependence, and religion versus the state. 
