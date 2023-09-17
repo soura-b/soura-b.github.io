@@ -1,3 +1,6 @@
+> "The difference between the almost right word and the right word is really a large matter—'tis the difference between the lightning-bug and the lightning.”  
+_Mark Twain_
+
 # Essays
 [On Disruption](essays/onDisruption.md) `2023-09-17`   
 What do Isaac Asimov and Clayton Christensen have in common?
