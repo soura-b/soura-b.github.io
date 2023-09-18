@@ -16,4 +16,5 @@ Since 2014, I have been running [Lattice Innovations](https://www.thelattice.in)
 
 I hope you enjoy some of what I have written.
 
-<img src = "/assets/Soura-casual-photo.jpg" width = 300>
+<img src = "/assets/Soura-casual-photo.jpg" width = 300>  
+Photo credit: [Reshma Roshania](https://www.linkedin.com/in/reshma-roshania)
