@@ -12,3 +12,5 @@ After five years with OmniGuide, I returned to India, and joined a rural hospita
 Since 2014, I have been running [Lattice Innovations](https://www.thelattice.in), a solution design firm with a focus on monitoring and measurement systems — such as apps for primary care, networked ICUs, and disease screening & surveillance programs. Lattice has worked with Fortune 50 firms, the World Health Organization, and State and Central Governments in India and overseas.
 
 I hope you enjoy some of what I have written.
+
+<img src = "/assets/Soura-casual-photo.jpg" width = 300>
