@@ -1,5 +1,8 @@
-# About me
-My name is Soura, and I have been around for a bit over four decades.
+---
+layout: post
+title: "About me"
+---
+My name is Soura, and I have been around for about four-and-a-half decades.
 
 I have a B.Tech (Hons) in Chemical Engineering from IIT Kharagpur, and a MBA (High Honors) from Harvard Business School. 
 
