@@ -30,5 +30,5 @@ This path is characterized by systemic change—when a new set of actors find ne
 ### Footnotes
 [^1]: Underneath the veneer of science fiction, the _Foundation_ series is masterful socio-political tale. Some say that Asimov was inspired by the rise and fall of the Roman Empire in writing this series. In my humble opinion, he takes it much further&mdash;exploring nuances of the nature of power, jurisprudence, economic interdependence, and religion versus the state. 
 [^2]: I always wanted to use the phrase "galactic primacy" in a blog post.
-[^3]: How do you know that a non-consumer is willing to make such a tradeoff? One way is to listen to the question they ask you. If they ask, "Why should I use it?", then the status quo is still dominates their choice. However, if they ask "When can I have it?", then you may just be at the cusp of something great.
-[^4]: Unfortunately, disruptive innovation is held up as the poster child for change. Small, everyday improvements that add up to market-dominating competitive advantage is overlooked.
+[^3]: How do you know that a non-consumer is willing to make such a tradeoff? One way is to listen to the question they ask you. If they ask, "Why should I use it?", then the status quo still dominates their choice. However, if they ask "When can I have it?", then you may just be at the cusp of something great.
+[^4]: Disruptive innovation is held up as the poster child for change. Small, everyday improvements that add up to market-dominating competitive advantage are overlooked. We all prefer drama.
