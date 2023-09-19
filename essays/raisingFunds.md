@@ -3,11 +3,9 @@ layout: post
 title: "Raising funds"
 ---
 
-When I was at the cusp of starting Lattice, the first question I faced was “What should we do?”. On its heels came the question, “How will we sustain ourselves — now and in the future?”.
+When I was at the cusp of starting Lattice, the first question I faced was “What should we do?”. On its heels came the question, “How will we sustain ourselves?”. In the short term, we needed sufficient cash to get to break-even.
 
-In the long term, entrepreneurs must allocate funds to pursue new market opportunities and develop new capabilities. In the short term, founders need sufficient cash to get to break-even.
-
-The initial investment required to break-even — and consequently, the financing options available — depend on the nature of the business.
+The initial investment required to break-even — and consequently, the financing options available—depend on the nature of the business.
 
 I have worked in three distinct types of business:
 1. Selling knowledge and skills: The team’s knowledge and skills are the service, as seen in consulting firms or solution development companies.
