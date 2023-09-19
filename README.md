@@ -24,14 +24,14 @@ Available on Amazon.com; free for Kindle Unlimited subscribers
 <img src = "https://github.com/soura-b/soura-b.github.io/assets/20471068/1b946035-c98a-42b5-9ab6-19b9451bf612" alt="Head, Heart and Hands book cover" width="200">  
 
 # Publications
-[National Estimates of the Adult Diabetes Care Continuum in India, 2019-2021](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2807945) `2023-07-31`    
+<a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2807945" target="_blank">National Estimates of the Adult Diabetes Care Continuum in India, 2019-2021</a> `2023-07-31`    
 Jithin Sam Varghese, Ranjit Mohan Anjana, Pascal Geldsetzer, Nikkil Sudharsanan, Jennifer Manne-Goehler, Harsha Thirumurthy, Soura Bhattacharyya, K. M. Venkat Narayan, Viswanathan Mohan, Nikhil Tandon, Mohammed K. Ali
 
-[A Strategic Research Framework for Defeating Diabetes in India: A 21st-Century Agenda](https://link.springer.com/article/10.1007/s41745-022-00354-5) `2023-03-21`   
+<a href="https://link.springer.com/article/10.1007/s41745-022-00354-5" target="_blank">A Strategic Research Framework for Defeating Diabetes in India: A 21st-Century Agenda</a> `2023-03-21`   
 K. M. Venkat Narayan, Jithin Sam Varghese, Yara S. Beyh, Soura Bhattacharyya, Shweta Khandelwal, Gokul S. Krishnan, Karen R. Siegel, Tinku Thomas & Anura V. Kurpad
 
-[Tandon’s Textbook of Cardiology](https://www.google.co.in/books/edition/Tandon_s_Textbook_of_Cardiology/6NXuDwAAQBAJ?hl=en&gbpv=1&pg=PA35&printsec=frontcover) `2019`   
-Book chapter: Innovative Indigenous Technology
+<a href="https://www.google.co.in/books/edition/Tandon_s_Textbook_of_Cardiology/6NXuDwAAQBAJ?hl=en&gbpv=1&pg=PA35&printsec=frontcover" target="_blank">Tandon’s Textbook of Cardiology</a> `2019`   
+Book chapter contributed: Innovative Indigenous Technology
 
 <style>
   .footer {
