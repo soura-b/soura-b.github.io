@@ -2,6 +2,7 @@
 layout: post
 title: "On Disruption"
 ---
+`2023-09-17`
 
 Isaac Asimov and Clayton Christensen are two of my favorite authors. Though they write about widely differing subjects, what brings them together is the concept of disruptive change.
 
