@@ -2,6 +2,9 @@
 _Mark Twain_
 
 # Essays
+[The Limits of Science](limitsOfScience.md) `2023-09-22`
+Does science have all the answers?
+
 [On Disruption](essays/onDisruption.md) `2023-09-17`   
 What do Isaac Asimov and Clayton Christensen have in common?
 
