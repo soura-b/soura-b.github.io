@@ -2,7 +2,7 @@
 _Mark Twain_
 
 # Essays
-[The Limits of Science](limitsOfScience.md) `2023-09-22`
+[The Limits of Science](limitsOfScience.md) `2023-09-22`  
 Does science have all the answers?
 
 [On Disruption](essays/onDisruption.md) `2023-09-17`   
