@@ -14,7 +14,7 @@ Science is exceptional at explaining the “how”. Where it stops short is in e
 
 This is not a denouncement of science. It is a recognition of its limitations.
 
-What alternative do we have to a materialistic, reductionist system? One alternative could be&mdash;a philosophy that recognizes our own subjective experiences, and reconciles it with the objects that we experience. A philosophy that examines the consciousness that pervades every experience, and posits its fundamental nature. Once that concludes—brainwaves are the effect, not the cause.
+What alternative do we have to a materialistic, reductionist system? One alternative could be&mdash;a philosophy that recognizes our own subjective experiences, and reconciles it with the objects that we experience. A philosophy that examines the consciousness that pervades every experience, and posits its fundamental nature. One that concludes—brainwaves are the effect, not the cause.
 
 Does such a philosophy or belief oppose science? 
 
