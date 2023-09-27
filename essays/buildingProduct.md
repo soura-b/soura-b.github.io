@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Blank essay"
+title: "Building product"
 ---
-_This post is inspired by advice to a fellow entrepreneur. Now all I need to do is follow it._  
+_This post is inspired by advice to a fellow entrepreneur. Now all I need to do is follow it myself._
+
 `2023-09-27`
 
 One thing that many founders get wrong while building a product is not narrowing their focus enough. This is counterintuitive — we are supposed to think about scale! I look at a Facebook and marvel at billions of users, forgetting that seeds of success were laid with a target of 2,000 users. 
