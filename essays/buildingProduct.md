@@ -12,7 +12,7 @@ You have a natural advantage here. You have rich data about 500 enterprises. Wha
 
 For example, I get a ton of unsoliciated emails from recruitment agencies. But I run a firm that hires < 5 employees a year. A larger recruitment pipeline is important for me, but not critical. Ergo, I am a poor target. They would be better served by targeting firms that hire every month — driven by higher growth or higher turnover[^1].
 
-So, which 50 (or even 10) of your 500 enterprises share a common, burning need that you can build for? Something that virtually ensures that they will use what you have built every day? Something as useful to them as the Alarm clock app is to me?
+So, which 50 (or 10) of your 500 enterprises share a common, burning need that you can build for? Something that virtually ensures that they will use what you have built every day? Something as useful to them as the alarm clock app is to me?
 
 And before you build anything, how much can you fake-build? Here is a self-gratifying example. 
 
@@ -35,4 +35,4 @@ The conversation quickly wrapped up after that.
 And for doing all this, you do not need to know a single line of code. You need to live and breathe your users.
 
 ### Footnotes
-[^1]: And there too, focus only on high growth organizations. No one trusts and agency that places them in high-turnover environments.
+[^1]: And there too, focus only on high growth organizations. No one trusts an agency that places them in high-turnover environments.
