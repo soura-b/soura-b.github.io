@@ -6,7 +6,7 @@ _This post is inspired by advice to a fellow entrepreneur. Now all I need to do 
 
 `2023-09-27`
 
-One thing that many founders get wrong while building a product is not narrowing their focus enough. This is counterintuitive — we are supposed to think about scale! I look at a Facebook and marvel at billions of users, forgetting that seeds of success were laid with a target of 2,000 users. 
+One thing that many founders — myself included — get wrong while building a product is not narrowing their focus enough. This is counterintuitive — we are supposed to think about scale! I look at a Facebook and marvel at billions of users, forgetting that seeds of success were laid while targeting a few thousand. 
 
 You have a natural advantage here. You have rich data about 500 enterprises. What one or two (not even three!) problems do they have, that you feel compelled to solve? And are those problems among the enterprises' top five?
 
