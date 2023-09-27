@@ -32,7 +32,7 @@ In the early days of Lattice, someone asked if we could build them a "auto-pharm
 
 The conversation quickly wrapped up after that.
 
-And for doing all this, you do not need to know a single line of code. You need to live and breathe your users.
+And for doing all this, you do not need to know how to write a single line of code. You need to live and breathe your users.
 
 ### Footnotes
 [^1]: And there too, focus only on high growth organizations. No one trusts an agency that places them in high-turnover environments.
