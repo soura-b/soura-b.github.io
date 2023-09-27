@@ -2,6 +2,9 @@
 _Mark Twain_
 
 # Essays
+[Building product](essays/buildingProduct.md) `2023-09-27`   
+Freely dispensed advice I wish I had followed
+
 [The Limits of Science](essays/limitsOfScience.md) `2023-09-22`  
 Does science have all the answers?
 
