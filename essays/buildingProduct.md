@@ -12,7 +12,7 @@ But, when I look at a Facebook and marvel at billions of users, I forget that se
 
 If you have access to a few hundred of your prospective users, you have a natural advantage. What one or two (not even three!) problems do they have, that you feel compelled to solve? And are those problems among the enterprises' top five?
 
-For example, I get a ton of unsoliciated emails from recruitment agencies. But my firm hires less than 5 employees a year. A bigger recruitment pipeline is valuable, but not critical &mdash; making me a poor target for these agencies. They would be better served by targeting firms that — driven by high growth or high turnover[^1] — hire every week (or at least every month).
+For example, I get a ton of unsoliciated emails from recruitment agencies. But my firm hires less than 5 employees a year. A bigger recruitment pipeline is valuable, but not critical; I am a poor target for these agencies. They would be better served by targeting firms that — driven by high growth or high turnover[^1] — hire every week (or at least every month).
 
 So, which subset of your prospective users share a common, burning need that you can build for? Something that virtually ensures that they will use what you have built every day[^2]? Something as useful to them as the alarm clock app is to me?
 
