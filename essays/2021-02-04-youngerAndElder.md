@@ -3,7 +3,9 @@ layout: post
 title: "The Tale of Younger and Elder"
 ---
 
-Once upon a time, in a small village nestled in a picturesque valley, lived two brothers &mdash; woodcutters by profession. The elder brother was lazy, selfish and greedy, while the younger one was hard-working, kind and generous. Most of the household work and expenses fell on the shoulders of Younger. After many years of gritting his teeth, he left the village, and most of his possessions, and moved two hills over. Life was peaceful, and Younger's teeth hurt less.
+Once upon a time, in a small village nestled in a picturesque valley, lived two brothers &mdash; woodcutters by profession. The elder brother was lazy, selfish and greedy, while the younger one was hard-working, kind and generous. Most of the household work and expenses fell on the shoulders of Younger. And he suffered mistreatment at the hands of Elder. Such mistreatment that it is beyond words. 
+
+After many years of gritting his teeth, Younger left the village, and most of his possessions. He moved two hills over, and started anew. Life was peaceful, and Younger's teeth hurt less.
 
 A few weeks later, while addressing a particularly tough tree with his freshly sharpened axe, he heard a dull 'clink'. Curious, he dug in and found a small metal flask. A few well-placed blows with the haft of his axe dislodged the flask's cap. Unscrewing it may been easier, but Younger never shied away from hard work. A tarry haze oozed out of the flask, and rapidly darkened the glade — even as the noonday sun blazed overhead.
 
