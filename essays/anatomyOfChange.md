@@ -10,7 +10,7 @@ What is commonly meant by change, is, in fact, three discrete steps — preparin
 If these three steps are covered in the catch-all phrase, "change management", we risk getting something wrong. Each step is unique, and needs to addressed differently.
 
 ## Preparing for change
-Preparation for change starts with perceiving the need for change. In organizations, this is often precipitated by a crisis &mdash; either external or internal. Competent, forward-looking leaders bring about change by creating an internal crisis &mdash; well before external changes forces it upon the organization.
+Preparation for change starts with perceiving the need for change. In organizations, this is often precipitated by a crisis &mdash; either external or internal. Competent, forward-looking leaders bring about change by creating an internal crisis &mdash; well before external changes forces it upon the organization[^2].
 
 Once the need is felt, organizations have to agree on what and how to change. This is alignment. An aligned organization can push in the same direction. Conversely, a misaligned organization expends tremendous effort without commensurate gain &mdash; leading to fatigue and disillusionment. 
 
@@ -32,8 +32,9 @@ However, the rest of the staff, whether due to overloading or poorly-defined pro
 
 Hence, to sustain change, the environment has to enable it. This is the job of leaders in the organization &mdash; to create an environment that promotes changes to a more elevated state.
 
-In summary, the better we understand the three steps of change &mdash; preparation (need, alignment), change (synchronous action), sustenance (discipline, enabling environment) &mash; the more equipped we become to change to a more elevated state[^2]. 
+In summary, the better we understand the three steps of change &mdash; preparation (need, alignment), change (synchronous action), sustenance (discipline, enabling environment) &mdash; the more equipped we become to change to a more elevated state[^3]. 
 
 ### Footnotes
-[^1]: I first thought of using the well-trodden analogy of pushing a boulder uphill. Then I realized that I am no Sisyphus; I have not even _seen_ a boulder being pushed uphill. What I have done many times, is push the family car &mdash; the venerable Maruti 800. I think it was my father's way to checking my cardiovascular capacity. 
-[^2]: Each cycle change improves our capability to plan and execute the next one. In the world of car-pushing, my father and I got the process down to a science. We knew the highest point of the lane in front of our flat &mdash; the starting point. I knew the exact spot where he would stop pushing and jump in, and I would have to compensate. And I learned to use my legs and back. 
+[^1]: I first thought of using the well-trodden analogy of pushing a boulder uphill. Then I realized that I am no Sisyphus; I have not even _seen_ a boulder being pushed uphill. What I have done many times, is push the family car &mdash; the venerable Maruti 800. I think it was my father's way of checking my cardiovascular capacity. 
+[^2]: My good friend <a href="https://www.linkedin.com/in/nmohanns/" target="blank">Mohan</a> put it much more pithily: "Never waste a good crisis".
+[^3]: Each cycle change improves our capability to plan and execute the next one. In the world of car-pushing, my father and I got the process down to a science. We knew the highest point of the lane in front of our flat &mdash; the starting point. I knew the exact spot where he would stop pushing and jump in, and I would have to compensate. And I learned to use my legs and back. That last lesson still stands me in good stead.
