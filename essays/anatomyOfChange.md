@@ -10,9 +10,9 @@ What is commonly meant by change, is, in fact, three discrete steps — preparin
 If these three steps are covered in the catch-all phrase, "change management", we risk getting something wrong. Each step is unique, and needs to addressed differently.
 
 ## Preparing for change
-Preparation for change starts with realizing the need for change. In organizations, this is often precipitated by a crisis &mdash; either external or internal. Competent, forward-looking leaders bring about change by either creating an internal crisis, or harnessing an external one to suit their goals. As the adage goes, "never waste a good crisis". 
+Preparation for change starts with realizing the need for change. In most organizations, this is precipitated by an external crisis. In some, forward-looking leaders don't wait &mdash; instead, they create an internal crisis. And a few visionary leaders, like Taiichi Ohno at Toyota, successfully embed change in the organization's DNA, by using it as the means to pursue perfection. 
 
-Once the need is felt, organizations have to agree on what and how to change. This is alignment. An aligned organization can push in the same direction. Conversely, a misaligned organization expends tremendous effort without commensurate gain &mdash; leading to fatigue and disillusionment. 
+Once the need is realized, organizations have to agree on what to change. This is alignment. An aligned organization can push in the same direction. Conversely, a misaligned organization expends tremendous effort without commensurate gain &mdash; leading to fatigue and disillusionment. 
 
 ## Making the change
 The essence of change is aligned action. Aligned &mdash; because my toes cannot point away from my hands when I push the car. Action &mdash; because this is not the time to speculate about why the car was not somewhere uphill. I must simply push &mdash; hard enough to overcome static friction.
@@ -34,6 +34,7 @@ Hence, to sustain change, the environment has to enable it. This is the job of l
 
 In summary, the better we understand the three steps of change &mdash; preparation (need, alignment), change (synchronous action), sustenance (discipline, enabling environment) &mdash; the more equipped we become to change to a more elevated state[^3]. 
 
+---
 _With inputs from <a href="https://www.linkedin.com/in/nmohanns/" target="blank">Mohan</a>_
 
 ### Footnotes
