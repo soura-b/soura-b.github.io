@@ -34,12 +34,11 @@ However, the rest of the staff, whether due to overloading or poorly-defined pro
 
 Hence, to sustain change, the environment has to enable it. This is the job of leaders in the organization &mdash; to create an environment that promotes changes to a more elevated state.
 
-In summary, the better we understand the three steps of change — preparation (need, alignment), change (synchronous action), sustenance (discipline, enabling environment) — the more equipped we become to change to a more elevated state[^3].
+In summary, the better we understand the three steps of change — preparation (need, alignment), change (synchronous action), sustenance (discipline, enabling environment) — the more equipped we become to change to a more elevated state[^2].
 
 ---
 _With inputs from <a href="https://www.linkedin.com/in/nmohanns/" target="blank">Mohan</a>_
 
 ### Footnotes
 [^1]: I first thought of using the well-trodden analogy of pushing a boulder uphill. Then I realized that I am no Sisyphus; I have not even _seen_ a boulder being pushed uphill. What I have pushed is the family car &mdash; the venerable Maruti 800. I think it was my father's way of checking my cardiovascular capacity. 
-[^2]: This rebalancing can be achieved if we update our work standards to incorporate the change.
-[^3]: Each cycle change improves our capability to plan and execute the next one. In the world of car-pushing, my father and I got the process down to a science. We knew the highest point of the lane in front of our flat &mdash; the starting point. I knew the exact spot where he would stop pushing and jump in, and I would have to compensate. And I learned to use my legs and back, not my arms. That last lesson still stands me in good stead.
+[^2]: Each cycle change improves our capability to plan and execute the next one. In the world of car-pushing, my father and I got the process down to a science. We knew the highest point of the lane in front of our flat &mdash; the starting point. I knew the exact spot where he would stop pushing and jump in, and I would have to compensate. And I learned to use my legs and back, not my arms. That last lesson still stands me in good stead.
