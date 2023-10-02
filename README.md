@@ -2,6 +2,9 @@
 _Mark Twain_
 
 # Essays
+[Anatomy of Change](essays/anatomyOfChange.md) `2023-10-02`   
+Change as a three-step process
+
 [Building product](essays/buildingProduct.md) `2023-09-27`   
 Freely dispensed (pun intended) advice I wish I had followed
 
