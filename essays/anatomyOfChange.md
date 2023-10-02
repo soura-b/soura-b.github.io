@@ -2,6 +2,7 @@
 layout: post
 title: "The Anatomy of Change"
 ---
+`2023-10-02`
 
 Change is often described as a continuous process. My experience suggests otherwise. I think of change as impulse — force applied over a very brief interval of time. Effective change is instantaneous — when it has sufficient force of skill, will and effort behind it.
 
