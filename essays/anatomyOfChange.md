@@ -3,24 +3,26 @@ layout: post
 title: "The Anatomy of Change"
 ---
 
-Change is often described as a continuous process. My experience suggests otherwise. I think of change as impulse &mdash; force applied over a very brief interval of time. Effective change is instaneous &mdash; as long as it has sufficient force of skill, will and effort behind it.
+Change is often described as a continuous process. My experience suggests otherwise. I think of change as impulse — force applied over a very brief interval of time. Effective change is instantaneous — when it has sufficient force of skill, will and effort behind it.
 
-What is commonly meant by change, is, in fact, three discrete steps — preparing for change, making the change, and sustaining it. Think of it as pushing a car that refuses to start[^1]. You take a few deep breaths, anchor your feet, and place your hands on a part of the car that won't break off. This is preparation. Then the actual push &mdash; maximum effort! — to get the stationary object in motion. Finally, once the car starts rolling, you keep pushing, to sustain the change. The effort now is lower, but it has to be consistent.
+What is commonly meant by change, is, in fact, three discrete steps — preparing for change, making the change, and sustaining it. Think of it as pushing a car to help it start[^1]. You take a few deep breaths, anchor your feet, and place your hands on a part of the car that won't break off. This is preparation. Then the actual push — maximum effort! — to get the stationary object in motion. Finally, once the car starts rolling, you keep pushing, to sustain the change. The effort now is lower, but it has to be consistent.
 
-If these three steps are covered in the catch-all phrase, "change management", we risk getting something wrong. Each step is unique, and needs to addressed differently.
+If these three steps are covered in the catch-all phrase, "change management", we risk getting something wrong. Each step is unique, and needs to be addressed differently.
 
 ## Preparing for change
 Preparation for change starts with realizing the need for change. In most organizations, this is precipitated by an external crisis. In some, forward-looking leaders don't wait &mdash; instead, they create an internal crisis. And a few visionary leaders, like Taiichi Ohno at Toyota, successfully embed change in the organization's DNA, by using it as the means to pursue perfection. 
 
-Once the need is realized, organizations have to agree on what to change. This is alignment. An aligned organization can push in the same direction. Conversely, a misaligned organization expends tremendous effort without commensurate gain &mdash; leading to fatigue and disillusionment. 
+Once the need is realized, organizations have to agree on what to change. This is alignment. An aligned organization can push in the same direction. Conversely, a misaligned organization expends tremendous effort without commensurate gain — leading to fatigue and disillusionment. 
 
 ## Making the change
 The essence of change is aligned action. Aligned &mdash; because my toes cannot point away from my hands when I push the car. Action &mdash; because this is not the time to speculate about why the car was not somewhere uphill. I must simply push &mdash; hard enough to overcome static friction.
 
 ## Sustaining change
-Once the car is in motion, I stop pushing for a second or two, to see how well intertia has taken hold. Sustaining change takes less physical effort. But, what makes it challenging is &mdash; my mind has to remain engaged while my body takes short breaks. Similarly, after making a change, an organization's attention has to remain engaged, while its effort are redistributed. This rebalancing of "head versus hands" requires care &mdash; and merits attention during the planning phase[^2].
+Once the car is in motion, I stop pushing for a second or two, to see how well inertia has taken hold. Sustaining change takes less effort. But, it still requires constant attention. If I start daydreaming, the car will stop — and all the effort put in to make it move will have gone to waste. Until the car moves under its own power, I have to keep pushing.
 
-I have found that the environment to be of particlar importance for sustaining change. Consider the following example:
+Similarly, an organization's attention has to remain on what was changed, even if the total effort is reduced. This has to continue until the change becomes a habit. And to make it a habit, our work standards have to be updated to incorporate the change.
+
+I have found that the environment is of particular importance for sustaining change. Consider the following example:
 
 You are a hospital administrator who wants to improve the quality of outpatient services. You define quality as correct diagnosis, convenient access to services, and cost-effective treatment.
 
@@ -32,12 +34,12 @@ However, the rest of the staff, whether due to overloading or poorly-defined pro
 
 Hence, to sustain change, the environment has to enable it. This is the job of leaders in the organization &mdash; to create an environment that promotes changes to a more elevated state.
 
-In summary, the better we understand the three steps of change &mdash; preparation (need, alignment), change (synchronous action), sustenance (discipline, enabling environment) &mdash; the more equipped we become to change to a more elevated state[^3]. 
+In summary, the better we understand the three steps of change — preparation (need, alignment), change (synchronous action), sustenance (discipline, enabling environment) — the more equipped we become to change to a more elevated state[^3].
 
 ---
 _With inputs from <a href="https://www.linkedin.com/in/nmohanns/" target="blank">Mohan</a>_
 
 ### Footnotes
-[^1]: I first thought of using the well-trodden analogy of pushing a boulder uphill. Then I realized that I am no Sisyphus; I have not even _seen_ a boulder being pushed uphill. What I have done many times, is push the family car &mdash; the venerable Maruti 800. I think it was my father's way of checking my cardiovascular capacity. 
+[^1]: I first thought of using the well-trodden analogy of pushing a boulder uphill. Then I realized that I am no Sisyphus; I have not even _seen_ a boulder being pushed uphill. What I have pushed is the family car &mdash; the venerable Maruti 800. I think it was my father's way of checking my cardiovascular capacity. 
 [^2]: This rebalancing can be achieved if we update our work standards to incorporate the change.
-[^3]: Each cycle change improves our capability to plan and execute the next one. In the world of car-pushing, my father and I got the process down to a science. We knew the highest point of the lane in front of our flat &mdash; the starting point. I knew the exact spot where he would stop pushing and jump in, and I would have to compensate. And I learned to use my legs and back. That last lesson still stands me in good stead.
+[^3]: Each cycle change improves our capability to plan and execute the next one. In the world of car-pushing, my father and I got the process down to a science. We knew the highest point of the lane in front of our flat &mdash; the starting point. I knew the exact spot where he would stop pushing and jump in, and I would have to compensate. And I learned to use my legs and back, not my arms. That last lesson still stands me in good stead.
