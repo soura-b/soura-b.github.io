@@ -27,9 +27,9 @@ I have observed a problematic cycle with equity financing. Initially, entreprene
 In contrast, debt is an excellent motivator for fiscal discipline. Debt payback is directly linked to cash flow. And positive cash flow is the foremost contributor to the fiscal health of a business.
 
 My takeaways from this experience can be framed as a set of questions:
-Can a low-investment business, launched swiftly, lay the foundation for a high-investment enterprise?
-Can the low-investment business be entirely debt-funded? Will the cashflow  generated be adequate for repaying the debt?
-If my cash flow proves insufficient for debt repayment, does my business even have a viable path to profitability?
+1. Can a low-investment business, launched swiftly, lay the foundation for a high-investment enterprise?
+2. Can the low-investment business be entirely debt-funded? Will the cashflow  generated be adequate for repaying the debt?
+3. If my cash flow proves insufficient for debt repayment, does my business even have a viable path to profitability?
 
 ### Footnotes
 [^1]: These numbers are illustrative only. Readers based in the US can replace “Rs lakhs” with “US$ thousand”.
