@@ -4,8 +4,8 @@ title: "Getting to Mayur Vihar Phase I Kali Bari"
 ---
 # 📌 Getting there
 ## Google Maps links
-- Location pin for Kali Bari: https://maps.app.goo.gl/P3zqzg2yGqqiicFM7  
-- Location pin for where to park your car, or get dropped off if you are taking an e-rickshaw from the metro: https://maps.app.goo.gl/JrMTcC7iPFpuFdLJ6 
+- Location pin for Kali Bari: [https://maps.app.goo.gl/P3zqzg2yGqqiicFM7](https://maps.app.goo.gl/P3zqzg2yGqqiicFM7)  
+- Location pin for where to park your car, or get dropped off if you are taking an e-rickshaw from the metro: [https://maps.app.goo.gl/JrMTcC7iPFpuFdLJ6](https://maps.app.goo.gl/JrMTcC7iPFpuFdLJ6) 
 
 ## Annotated screenshot
 - Red: path from Mayur Vihar Phase I turnoff, past the MV Phase I metro station, to the Kali Bari  
