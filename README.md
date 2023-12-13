@@ -2,9 +2,6 @@
 _Mark Twain_
 
 # Essays
-[Getting to MV Kali Bari](essays/kaliBari.md) `2023-10-20`  
-Short-term but vital information  
-
 [Anatomy of Change](essays/anatomyOfChange.md) `2023-10-02`   
 Change as a three-step process
 
