@@ -31,13 +31,12 @@ It's not really what the hand draws. It's not even what the eye sees. It's what 
 ## What is Philosophy?
 Several years ago, my guru asked me - "What is philosophy?"
 
-As usual I struggled to give a coherent and meaningful answer. After a few missed attempts, he responded - "Philosophy is logic."
+As usual I struggled to give a coherent and meaningful answer. After a few missed attempts, he said, "Philosophy is logic."
 
-To expand on that insight, philosophy is a set of principles that we live by. They need to be both internally consistent and externally relevant - both aspects stem from logic. 
+To expand on that insight, philosophy is a set of principles that we live by. They need to be both internally consistent and externally relevant &mdash; both aspects stem from logic. 
 
-What makes philosophy hard is applying the same set of rules that we conveniently use for others, to ourselves. 
+What makes philosophy hard is applying the same set of rules that we conveniently use for others, to ourselves.
 
-Philosophy is not complex. It's difficult. It is not rocket science, which is complex. It is like pushing a boulder up a hill - hard work that needs both strength and perseverence. In other words, it's simple, but not easy. 
+Philosophy is not complex. It's difficult. It is not rocket science, which is complex. It is like pushing a boulder up a hill &mdash; hard work that needs both strength and perseverence. In other words, it's simple, but not easy. 
 
-I think all of us are "philosophers-in-progress" - just like work-in-progress. Only some are more evolved and self-aware, some less so.
-
+I think all of us are "philosophers-in-progress" &mdash; co-travelers on the same path.
