@@ -3,7 +3,7 @@ layout: post
 title: "Random Thoughts"
 ---
 
-Here is a collection of random thoughts and ideas &mdash; maybe some with mature into full-length posts.
+_Here is a collection of random thoughts and ideas &mdash; maybe some will mature into full-length posts._
 
 ## One
 It's remarkable that the unexpected gives rise to both laughter and anxiety.
