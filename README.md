@@ -2,6 +2,9 @@
 _Mark Twain_
 
 # Essays
+[Random Thoughts](essays/randomThoughts.md) `2024-06-04`  
+A smorgasbord of thoughts and ideas
+
 [Anatomy of Change](essays/anatomyOfChange.md) `2023-10-02`   
 Change as a three-step process
 
