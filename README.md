@@ -2,6 +2,9 @@
 _Mark Twain_
 
 # Essays
+[Circa 2014](essays/circa2014.md) `2024-07-03`  
+Realizations from 10 years ago
+
 [Random Thoughts](essays/randomThoughts.md) `2024-06-04`  
 A smorgasbord of thoughts and ideas
 
