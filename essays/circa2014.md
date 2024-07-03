@@ -1,4 +1,8 @@
-Circa 2014
+---
+layout: post
+title: "Circa 2014"
+---
+
 I co-founded Lattice 10 years ago. The early days seemed to bring with them a revelation each hour (these days are a lot calmer). I jotted some of them down, and emailed them to myself. Here they are, slightly edited: 
 
 1. Take no pride in teaching others.
