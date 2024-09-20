@@ -2,6 +2,9 @@
 _Mark Twain_
 
 # Essays
+[Fearlessness](essays/fearlessness.md) `2024-09-20`  
+The opposite of fearlessness is not caution, it’s fear.
+
 [Circa 2014](essays/circa2014.md) `2024-07-03`  
 Realizations from 10 years ago
 
