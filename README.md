@@ -35,6 +35,9 @@ Profound yet accessible
 [The Tale of Younger and Elder](essays/2021-02-04-youngerAndElder.md) `2021-02-04`  
 An awfully stretched out dad joke
 
+[Getting to MV Kali Bari](essays/kaliBari.md) `timeless`  
+Directions and where to park
+
 # Book
 [Head, Heart and Hands: A handbook on leading and managing organizations](https://www.amazon.com/dp/B0CFRDTV12) `2023-08-14`    
 Available on Amazon.com; free for Kindle Unlimited subscribers
