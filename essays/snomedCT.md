@@ -22,6 +22,7 @@ That is when I came across SNOMED-CT[^3], an ontology that specifically addresse
 
 SNOMED-CT allows pneumonia to be associated with multiple other concepts — concepts that represent the affected region (respiratory system), the nature of the disease (inflammation), and its cause (bacterial or viral infection). This is illustrated in the figure below[^4].
 
+<img width="1045" alt="SNOMED-CT diagram of Bacterial Pneumonia" src="/assets/snomed-ct-diagram.png">
 
 
 The ability to deconstruct a concept into its constituent concepts, and recombine those concepts to create new ones was quite thrilling. Clearly, the makers of SNOMED-CT agree with me, because they gave a specific name to this activity: post-coordination.
