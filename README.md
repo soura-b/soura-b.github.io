@@ -2,6 +2,9 @@
 _Mark Twain_
 
 # Essays
+[Why I love SNOMED-CT](essays/snomedCT.md) `2024-11-11`  
+A nerdy post about something very few people will find interesting.
+
 [Fearlessness](essays/fearlessness.md) `2024-09-20`  
 The opposite of fearlessness is not caution, it’s fear.
 
