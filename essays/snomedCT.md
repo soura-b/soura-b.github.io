@@ -24,7 +24,6 @@ SNOMED-CT allows pneumonia to be associated with multiple other concepts — con
 
 <img width="1045" alt="SNOMED-CT diagram of Bacterial Pneumonia" src="/assets/snomed-ct-diagram.png">
 
-
 The ability to deconstruct a concept into its constituent concepts, and recombine those concepts to create new ones was quite thrilling. Clearly, the makers of SNOMED-CT agree with me, because they gave a specific name to this activity: post-coordination.
 
 If there is a post, there should be a pre. Indeed, there is. Pre-coordination means that a concept already has a code in the SNOMED-CT vocabulary. Conditions such as “bacterial pneumonia”, or even a common bacterial strain such as “Streptococcal pneumonia”, exist as pre-coordinated concepts.
@@ -32,10 +31,12 @@ If there is a post, there should be a pre. Indeed, there is. Pre-coordination me
 Post-coordination would apply to a concept like pneumonia caused by the Gardnerella genus, which is a rare event[^5]. However, because the Gardnerella genus is defined in the SNOMED-CT ontology, it can still be represented using a post-coordinated concept.
 
 SNOMED-CT recognizes the limitations of language in describing an idea, but then bends that limitation to its use. There are axiomatic concepts (my term, not theirs) that can be interconnected to describe more complex ideas.
+
 And by separating the “ingredients” of a concept from its constituents, SNOMED-CT free itself from the need to be verbose. Rather, it provides a fully-specified name, and also provides a host of synonyms across multiple languages.
 
 This conceptual separation of the concept of idea, from the words used to represent it, is the true power of SNOMED-CT. It enables terse communication without loss of clarity — which I presume is the goal of any system that organizes information about the world.
 
+## Footnotes
 [^1]: A decade-and-a-half feels about 25% longer than 15 years.
 [^2]: https://www.ahrq.gov/data/hcup/index.html, last accessed many years ago. It is an outstanding resource for anyone working in the US healthcare system.
 [^3]: https://www.snomed.org/what-is-snomed-ct, last accessed Sep 3, 2024
