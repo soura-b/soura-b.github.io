@@ -2,6 +2,9 @@
 _Mark Twain_
 
 # Essays
+[Writing for a living](essays/writingForALiving.md) `2024-12-30`  
+About the craft of writing
+
 [Why I love SNOMED-CT](essays/snomedCT.md) `2024-11-11`  
 A nerdy post about something very few people will find interesting.
 
