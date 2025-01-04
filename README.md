@@ -2,6 +2,9 @@
 _Mark Twain_
 
 # Essays
+[Productivity](essays/Productivity.md) `2025-01-04`  
+Lessons from Lean
+
 [Writing for a living](essays/writingForALiving.md) `2024-12-30`  
 About the craft of writing
 
