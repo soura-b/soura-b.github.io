@@ -40,8 +40,6 @@ And by separating the “ingredients” of a concept from its constituents, SNOM
 
 It enables terse communication without loss of clarity — which I presume is the goal of any system that organizes information about the world.
 
-### Footnotes
-
 [^1]: A decade-and-a-half feels about 25% longer than 15 years.
 
 [^2]: Some of the structural limitation of ICD-10 have been addressed in ICD-11, but not fully.&#x20;
