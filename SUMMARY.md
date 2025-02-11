@@ -19,3 +19,5 @@
   * [Theory and Practice](essays/theoryAndPractice.md)
   * [Getting to Mayur Vihar Phase I Kali Bari](essays/kaliBari.md)
 * [About me](about.md)
+* [Short stories](short-stories/README.md)
+  * [The boy who went up the hill](short-stories/the-boy-who-went-up-the-hill.md)
