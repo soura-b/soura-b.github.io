@@ -10,14 +10,14 @@ His legs felt strong as he pushed of one rock to the next, nimbly avoiding the s
 
 After a minute of frantic searching — by which time his heart was no longer leaping out of his mouth — he spotted a bit of red and ochre a few yards away. It was behind a waist-high branch, lit up by a stray moonbeam.
 
-Curiosity piqued, he crept towards the branch. "This is a bad idea," he thought, "this is a twelve on a scale of one to five."
+Curiosity piqued, he crept towards the branch. _This is a bad idea_, he thought. _This is a twelve on a scale of one to five._
 
-As he got closer, the splash of color rippled. He stopped. It stopped. Kavi slowly raised his left hand. One solitary ripple. He stopped again. So did the rippling.
+As he got closer, the splash of color rippled. He stopped. It stopped. Kavi slowly raised a hand. One solitary ripple. He stopped again. So did the rippling.
 
 Suddenly, there was a rustle, and before he could react, the color darted towards him, fanning out into shades of grey, black, bits of white — until it wrapped around him.
 
 He screamed with every ounce of air in his lungs — but it was muffled.
 
-Smothered by the blanket that now covered his face. "It's a _blanket_," he sobbed, "dear Lord, it's a BLANKET". After italicizing and capitalizing "blanket" a few times more, he sank to his haunches. Some color seemed to be leaching back into the hillside. Kavi sat back against a tree trunk, heedless of the twigs that got tanged in his hair.
+Smothered by the blanket that now covered his face. "It's a _blanket_," he sobbed, "dear Lord, it's a BLANKET". He sank to his haunches in relief, then sat back against a tree trunk, heedless of the twigs that got tanged in his hair. Some color seemed to be leaching back into the hillside.&#x20;
 
 The blanket fluttered again. It seemed to slide down his arms, and nestle comfortably around his shoulders. It felt like Ma's touch on cold winter nights like this one, when she tucked him into bed, and ran her fingers through her hair.
