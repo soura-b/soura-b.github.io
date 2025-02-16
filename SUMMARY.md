@@ -20,5 +20,6 @@
   * [Getting to Mayur Vihar Phase I Kali Bari](essays/kaliBari.md)
 * [About me](about.md)
 * [Short stories](short-stories/README.md)
+  * [The short, long train ride](short-stories/the-short-long-train-ride.md)
   * [The boy who went up the hill](short-stories/the-boy-who-went-up-the-hill.md)
   * [The boy who dreamt](short-stories/the-boy-who-dreamt.md)
