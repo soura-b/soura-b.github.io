@@ -38,7 +38,7 @@ Before Shastri uncle could recover, Baba continued. "I have a third and final qu
 
 "Go on," said Shastri uncle through gritted teeth. Ma had pulled her blue shawl over herself. It made her blend in with the vinyl upholstery. Kavi leaned forward, eyes darting from Baba's face to Shastri uncle's.
 
-"Yesterday, I dropped that damnable egg a third time. This time..." Baba paused. Everyone seemed to shift closer to him. "This time, it _cracked_!"
+"Yesterday, I dropped that damnable egg a third time. This time..." Baba paused. "This time, it _cracked_!"
 
 Shastri uncle lips disappeared in a thin line. He fought a losing battle to stay silent. "Bad luck!" he said.
 
