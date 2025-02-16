@@ -8,11 +8,11 @@ Sometimes, Ma would pull his ear, and tell him off about his harebrained schemes
 
 ***
 
-Kavi and his parents had come for a weekend to a jungle lodge in the Marchula valley. On the train ride over from Delhi to Kathgodam, his nose was almost constantly buried in a book. It was Jim Corbett's "Man-eaters of Kumaon".
+After Baba's egg questionnaire, Shastri uncle had quieted down, allowing Kavi could go back to his book, Jim Corbett's "Man-eaters of Kumaon".
 
 As the train clattered along, Kavi imagined himself walking softly through forests and glade, tracking bird calls and pug marks in search of an elusive tiger. On and off, he would gaze out into the night, and words from the page would twist into lines of red, white, and yellow, forming fearsome beasts and brave hunters, before dissipating into darkness.
 
-Ma called him "my dreamer", her affection often tinged with exasperation. Kavi didn't mind. He loved reading, and he loved creating more stories based on what he read. He saw flying people, birds that wore monocles, and planes that turned into boats. His imagination did not discriminate. Science fiction, magic, and nature — they all existing in equal measure in the worlds he created. Then again, discrimination — and divisiveness — was an adult skill.
+Ma called him "my dreamer", her affection often tinged with exasperation. Kavi didn't mind. He loved reading, and he loved creating more stories based on what he read. He saw flying people, birds that wore monocles, mountains that pierced the skies, and planes that turned into boats. His imagination did not discriminate. Science fiction, magic, and nature — they all existing in equal measure in the worlds he created. Then again, discrimination — and divisiveness — was an adult skill.
 
 His father was more sanguine. "He will grow out of it," Kavi heard Baba say to Ma, the night before their trip.
 
@@ -22,9 +22,9 @@ His father was more sanguine. "He will grow out of it," Kavi heard Baba say to M
 
 "It was imaginary. The pot wasn't."
 
-"How does an imaginary plane...?" Baba's question petered off when he looked at Ma.
+"How does an imaginary plane...?" Baba's question petered off.
 
-Kavi couldn't see her from where he was nestled with a book, but he could well imagine the look on her face. The same look made him do his homework promptly. "It works on Baba too," he thought, filing that observation away because it felt vaguely important.
+Kavi couldn't see Ma from where he was nestled with a book, but he could well imagine the look on her face. The same look made him do his homework promptly. "It works on Baba too," he thought, filing that observation away because it felt vaguely important.
 
 ***
 
