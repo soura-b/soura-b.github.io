@@ -32,7 +32,7 @@ Kavi awoke with a start. His ill-advised adventures must have tired him out more
 
 A sharp breeze sprang up, sending chills down his spine. Kavi realized he was wearing just a long-sleeved cotton shirt — in a act of defiance, he had left behind his thick sweater that Ma made him wear whenever _she_ was feeling cold. It also got caught in brambles and branches, and Mr. Corbett himself had written that while in the wilds, one had to be quiet and stealthy. The final nail — it was electric blue. Not exactly subtle.
 
-"Maybe I will wear it if I go exploring in a submarine," Kavi thought, "with Captain Nemo! We will see sharks, and blue whales, and giant squid!"
+_Maybe I will wear it if I go exploring in a submarine_, Kavi thought, _with Captain Nemo! We will see sharks, and blue whales, and giant squid!_
 
 Another gust of wind cut short his musings. He pulled the shawl tighter. It seemed heavier now, blocking the wind from neck to knee. His face was still unprotected. As soon as he realized this, a torn edge of the blanket fluttered onto his face. Tucking it into his cap, he stood up on shaky feet.
 
