@@ -1,10 +1,10 @@
 # Jewels and averages
 
-It was late morning. Kavi stood still, mesmerized by the roaring river. The events of last night had faded, misty and dark now, even more insubstantial than a dream. _Or maybe I am dreaming now_, thought Kavi. The river's sounds filled his head, and its sparkles filled his eyes. If he could, he would scoop up some of the gleaming bits and take it back home to Delhi.
+It was late morning. Kavi stood still, mesmerized by the roaring river. The events of last night had faded, misty and dark now, even more insubstantial than a dream. _Or maybe I am dreaming now_, thought Kavi, _and maybe that was a dream within a dream_.&#x20;
 
-He had tried to do just that, six years ago, _When I was just a kid_. That had been his first visit to Marchula. But all the jewels of the water had disappeared, leaving behind a plain, unmoving puddle that slowly trickled out of his cupped hands. He had burst into tears when that had happened, and Baba had gathered him in his arms, and said, "I wish Snell could see the havoc he has wrought".
+The river's sounds filled his head, and its sparkles filled his eyes. If he could, he would scoop up some of the gleaming bits and take it back home to Delhi.
 
-He had gone on to talk about reflection and refractive index and light and water and how human eyes worked and what fishes saw and what birds saw and on and on, his soft words meshing with the gurgle of the river, words that had cooled down Kavi's agitation like a soothing dollop of ice cream on a hot summer day.
+He had tried to do just that, six years ago, _When I was just a kid_. That had been his first visit to Marchula. But all the jewels of the water had disappeared, leaving behind a plain, unmoving puddle that slowly trickled out of his cupped hands. He had burst into tears. Baba had gathered him in his arms, drawn him close, and talked about light and water and angles and flow and rivers and mountains and tides and oceans, his soft words meshing with the gurgle of the river, words that had cooled down Kavi's agitation like a soothing dollop of ice cream on a hot summer day.
 
 _Ice cream doesn't have ice_, thought Kavi. _Does it have cream? I have to ask Baba!_ He jumped to his feet and ran towards the cottages.
 
