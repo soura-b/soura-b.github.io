@@ -18,6 +18,7 @@
   * [Raising funds](essays/raisingFunds.md)
   * [Theory and Practice](essays/theoryAndPractice.md)
   * [Getting to Mayur Vihar Phase I Kali Bari](essays/kaliBari.md)
+  * [Offline-first peer-to-peer payment](essays/offline-first-peer-to-peer-payment.md)
 * [About me](about.md)
 * [Short stories](short-stories/README.md)
   * [The short, long train ride](short-stories/the-short-long-train-ride.md)
