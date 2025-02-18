@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Words](README.md)
-* [Technical notes](technical-notes/README.md)
+* [Concept notes](technical-notes/README.md)
   * [Offline-first peer-to-peer payment](technical-notes/offline-first-peer-to-peer-payment.md)
   * [Why I love SNOMED-CT](technical-notes/snomedct.md)
 * [Essays](essays/README.md)
