@@ -3,6 +3,14 @@
 > "The difference between the almost right word and the right word is really a large matter—'tis the difference between the lightning-bug and the lightning.”\
 > &#xNAN;_&#x4D;ark Twain_
 
+## Technical notes
+
+[Offline-first peer-to-peer payment](technical-notes/offline-first-peer-to-peer-payment.md) `2025-02-18`\
+Bridging the digital divide in the Pacific Islands
+
+[Why I love SNOMED-CT](technical-notes/snomedct.md) `2024-11-11`\
+A nerdy post about something very few people will find interesting.
+
 ## Essays
 
 [Productivity](essays/Productivity.md) `2025-01-04`\
@@ -10,9 +18,6 @@ Lessons from Lean
 
 [Writing for a living](essays/writingForALiving.md) `2024-12-30`\
 About the craft of writing
-
-[Why I love SNOMED-CT](essays/snomedCT.md) `2024-11-11`\
-A nerdy post about something very few people will find interesting.
 
 [Fearlessness](essays/fearlessness.md) `2024-09-20`\
 The opposite of fearlessness is not caution, it’s fear.
@@ -56,6 +61,10 @@ Directions and where to park
 Available on Amazon.com; free for Kindle Unlimited subscribers
 
 ![Head, Heart and Hands book cover](https://github.com/soura-b/soura-b.github.io/assets/20471068/1b946035-c98a-42b5-9ab6-19b9451bf612)
+
+## [Short story](./#short-story)
+
+A work-in-progress novella.
 
 ## Publications
 

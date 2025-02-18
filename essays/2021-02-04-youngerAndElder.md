@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "The Tale of Younger and Elder"
+title: The Tale of Younger and Elder
 ---
 
-Once upon a time, in a small village nestled in a picturesque valley, lived two brothers &mdash; woodcutters by profession. The elder brother was lazy, selfish and greedy, while the younger one was hard-working, kind and generous. Most of the household work and expenses fell on the shoulders of Younger. And he suffered mistreatment at the hands of Elder. Such mistreatment that it is beyond words. 
+# The Tale of Younger and Elder
+
+Once upon a time, in a small village nestled in a picturesque valley, lived two brothers — woodcutters by profession. The elder brother was lazy, selfish and greedy, while the younger one was hard-working, kind and generous. Most of the household work and expenses fell on the shoulders of Younger. And he suffered mistreatment at the hands of Elder. Such mistreatment that it is beyond words.
 
 After many years of gritting his teeth, Younger left the village, and most of his possessions. He moved two hills over, and started anew. Life was peaceful, and Younger's teeth hurt less.
 
@@ -13,9 +14,9 @@ Slowly, the darkness took shape. It spoke to Younger in a gravelly drawl, much l
 
 The Voice said, "Who commands my presence?"
 
-Fortunately, Younger was quite familiar with fables, parables and multiplication tables. "It is I, your master!", he squeaked. 
+Fortunately, Younger was quite familiar with fables, parables and multiplication tables. "It is I, your master!", he squeaked.
 
-"You have set me free after 10,000 years of captivity," said the Voice. "For that, I shall grant you four boons. Not three. Four. Because I can." 
+"You have set me free after 10,000 years of captivity," said the Voice. "For that, I shall grant you four boons. Not three. Four. Because I can."
 
 "Oh!", said Younger.
 
@@ -29,14 +30,16 @@ Inside, grinning from ear-to-ear, in a place of pride next to the headman, sat E
 
 Younger retreated, and walked over a nearby provision store. He had been looking forward to stocking up for a hearty meal or three — his usual fare of oaken soup with a side of oak leaves left something to be desired. But his appetite was gone now. He greeted the store owner's daughter timidly, too distracted to see the sapphire smile that she bestowed on him.
 
-Late that night, Younger returned to his hut. His cookpot was bubbling merrily — grateful for some real food for a change. The cookpot, that is, not Younger. Pots have feeling too. 
+Late that night, Younger returned to his hut. His cookpot was bubbling merrily — grateful for some real food for a change. The cookpot, that is, not Younger. Pots have feeling too.
 
 Youger's sat frowning and hunched, muttering to himself, "Double... Half... Square root of two... Hmmm..." This went on until even the cookpot lost interest. Suddenly, his brow cleared, and a smile played on his lips. It made him look quite dashing — a cross between Charlie Sheen and Errol Flynn — though the similie would be lost on him.
 
-The next morning, he opened the Flask. Immediately, tarry smoke issued forth, and a voice said "WHO DARES DISTURB... Oh, it is you. Good morning." 
+The next morning, he opened the Flask. Immediately, tarry smoke issued forth, and a voice said "WHO DARES DISTURB... Oh, it is you. Good morning."
 
-Younger took a deep breath, and said, "Good morning. I want you to beat me half to death." 
+Younger took a deep breath, and said, "Good morning. I want you to beat me half to death."
 
- 
-### Footnotes
+&#x20;
+
+#### Footnotes
+
 [^1]: There is a good deal of Internet debate about the use of whence. Literally, it means "from where". However, "from whence" is used quite as often as "whence" — that is to say, neither of them are used much at all.
