@@ -3,15 +3,12 @@
 > "The difference between the almost right word and the right word is really a large matter—'tis the difference between the lightning-bug and the lightning.”\
 > &#xNAN;_&#x4D;ark Twain_
 
-## Technical notes
 
-[Offline-first peer-to-peer payment](technical-notes/offline-first-peer-to-peer-payment.md) `2025-02-18`\
-Bridging the digital divide in the Pacific Islands
-
-[Why I love SNOMED-CT](technical-notes/snomedct.md) `2024-11-11`\
-A nerdy post about something very few people will find interesting.
 
 ## Essays
+
+[Trust and digital identity](essays/trust-and-digital-identity.md) `2025-02-18`\
+How does the world know who I am?
 
 [Productivity](essays/Productivity.md) `2025-01-04`\
 Lessons from Lean
@@ -19,8 +16,11 @@ Lessons from Lean
 [Writing for a living](essays/writingForALiving.md) `2024-12-30`\
 About the craft of writing
 
+[Why I love SNOMED-CT](essays/snomedct.md) `2024-11-11`\
+A beautiful system to represent medical information
+
 [Fearlessness](essays/fearlessness.md) `2024-09-20`\
-The opposite of fearlessness is not caution, it’s fear.
+The opposite of fearlessness is not caution, it’s fear
 
 [Circa 2014](essays/circa2014.md) `2024-07-03`\
 Realizations from 10 years ago
