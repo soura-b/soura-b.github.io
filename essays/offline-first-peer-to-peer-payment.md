@@ -27,7 +27,6 @@ flowchart TD
     B1 <-->|Online| S(Sender)
     B2 <-->|Online| R(Receiver)
     
-    
     subgraph users
     S ==>|Online| R
     end
@@ -37,6 +36,8 @@ Each transaction needs internet connectivity, because the transactions are valid
 
 ### Proposed system
 
+
+
 ```mermaid
 flowchart TD
     subgraph banks
@@ -45,7 +46,6 @@ flowchart TD
     end
     B1 <-->|Intermittent| S(Sender)
     B2 <-->|Intermittent| R(Receiver)
-    
     
     subgraph users
     S ==>|Offline| R
