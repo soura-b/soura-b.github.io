@@ -62,9 +62,9 @@ Available on Amazon.com; free for Kindle Unlimited subscribers
 
 ![Head, Heart and Hands book cover](https://github.com/soura-b/soura-b.github.io/assets/20471068/1b946035-c98a-42b5-9ab6-19b9451bf612)
 
-## [Short story](./#short-story)
+## Short story
 
-A work-in-progress novella.
+A work-in-progress [novella](short-story/). Bits and bobs written at present.
 
 ## Publications
 

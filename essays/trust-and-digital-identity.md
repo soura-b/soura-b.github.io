@@ -24,3 +24,8 @@ When this idea first occurred to me, I was impressed by my own originality. Then
 
 <figure><img src="../.gitbook/assets/640px-Web_of_Trust-en.svg.png" alt=""><figcaption><p>Schematic diagram of a Web of Trust. Source: By <a href="https://commons.wikimedia.org/w/index.php?curid=80652637">Kku - Own work</a>, CC BY-SA 4.0</p></figcaption></figure>
 
+How do we apply this idea to everyday use? Imagine opening a bank account. In India, I have to show up with my PAN and Aadhaar cards. In case I have dared to move cities since I got my Aadhaar card, I need another address-carrying government-issued ID, like a voters' card. All three document have to spell my name in [precisely the same way](#user-content-fn-1)[^1]. Because, with our 22 major languages, of course there is excellent conversion to English.&#x20;
+
+
+
+[^1]: When my father first had his PAN card made, the IT system did not allow for the number of characters that his full name had. So, he had to drop his middle name. Since then, he has carefully held on to an unsigned, explanatory note that needs to periodically be explained to bank employees.
