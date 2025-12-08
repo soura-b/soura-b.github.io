@@ -44,7 +44,7 @@ Santosh has joined the same batch as him at Vayu Academy, three years ago. The a
 
 "It was one of my best weeks ever—eighteen hundred plus!"
 
-The point system was how Supers made their living. At the top of the leaderboard were folks like Balwaan Boy, a strongman, and Gati Girl, a speedster. They netted over two _hundred_ thousand each week. \[power law]
+The point system was how Supers made their living. At the top of the leaderboard were folks like Balwaan Boy, a strongman, and Gati Girl, a speedster. They netted over two _hundred_ thousand each week.
 
 Seven hundred points was barely enough for rent, groceries, and transport. Then again, Santosh has more marketable skills. He was a speedster, though not in the same category as Gati Girl. He was two orders of magnitude slower—if she was a normal human, then Santhosh was a snail. What made it worse was his poor sense of direction. He had ended up in the wrong country once, and had to be bailed out of jail by a reluctant government.
 
