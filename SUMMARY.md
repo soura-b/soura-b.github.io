@@ -26,3 +26,8 @@
   * [04. The aftermath](short-story/04.-the-aftermath.md)
   * [05. The riverside](short-story/05.-the-riverside.md)
 * [About me](about.md)
+
+## Yay-Man
+
+* [Chapter 1: Sunday](yay-man/chapter-1-sunday.md)
+* [Chapter 2: Monday](yay-man/chapter-2-monday.md)

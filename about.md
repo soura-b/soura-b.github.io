@@ -1,10 +1,12 @@
 ---
-layout: post
-title: "About me"
+title: About me
 ---
+
+# About me
+
 My name is Soura, and I have been around for about four-and-a-half decades.
 
-I have a B.Tech (Hons) in Chemical Engineering from IIT Kharagpur, and a MBA (High Honors) from Harvard Business School. 
+I have a B.Tech (Hons) in Chemical Engineering from IIT Kharagpur, and a MBA (High Honors) from Harvard Business School.
 
 After my undergraduate studies, I started my career in 2001 with ITC Limited, one of India’s largest conglomerates. There, I worked in engineering and factory operations.
 
@@ -16,5 +18,4 @@ Since 2014, I have been running [Lattice Innovations](https://www.thelattice.in)
 
 I hope you enjoy some of what I have written.
 
-<img src = "/assets/Soura-casual-photo.jpg" width = 300>  
-Photo credit: [Reshma Roshania](https://www.linkedin.com/in/reshma-roshania)
+![](.gitbook/assets/Soura-casual-photo.jpg) Photo credit: \[Reshma Roshania]\(https://www.linkedin.com/in/reshma-roshania)

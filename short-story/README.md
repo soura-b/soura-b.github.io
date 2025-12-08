@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Short story
 
 I have posted bits and pieces of my attempts to write a yet-untitled short story. Some of the chapters are situation sketches, some are attempts are building characters. Some are plain whimsy.
