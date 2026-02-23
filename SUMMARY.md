@@ -2,6 +2,7 @@
 
 * [Words](README.md)
 * [Essays](essays/README.md)
+  * [From the mechanization of work to the mechanization of thought](essays/from-the-mechanization-of-work-to-the-mechanization-of-thought.md)
   * [Trust and digital identity](essays/trust-and-digital-identity.md)
   * [Productivity](essays/Productivity.md)
   * [Writing for a living](essays/writingForALiving.md)

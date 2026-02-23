@@ -7,6 +7,9 @@
 
 ## Essays
 
+[From the mechanization of work to the mechanization of thought](essays/from-the-mechanization-of-work-to-the-mechanization-of-thought.md) `2026-02-23`\
+Beyond machines, beyond thought
+
 [Trust and digital identity](essays/trust-and-digital-identity.md) `2025-02-18`\
 How does the world know who I am?
 
