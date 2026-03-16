@@ -72,7 +72,9 @@ Suppose I train a thinking machine to models some of its thought-patterns on min
 
 But then, am I my mind? That is where Descartes stopped, with his declaration that "I think, therefore I am". Subjective idealism also stops there—this branch of philosophy declares that there is no way to prove the existence of anything but our own subjective experience of world. It is a lonely philosophy.
 
-In matters of philosophy, I am deeply influenced by _Advaita Vedanta_,. Let me use one of its frameworks that is well suited to "delaminating" the mind-body system: the _pancha kosha viveka_[^4].
+My default state is to consider myself an embodied mind, i.e. a mind contained within the physical limitations of the body. This worldview is what modern science taught me—there is a universe out there, and I am but a miniscule being in one corner.
+
+This worldview was challenged and overturned when I began learning about _Advaita Vedanta_. Let me use one of its frameworks that is well suited to "delaminating" the mind-body system: the _pancha kosha viveka_[^4].
 
 _Pancha_ is "five", _kosha_ is "sheath", and _viveka_ is "discernment"[^5]. This approach breaks down the self into five sheaths as a means of discerning truth from falsity:
 1. _Annamaya kosha_ - the food sheath. The most observable outer layer, which is literally constituted of the food we consume: _anna_ is food or foodgrain.
