@@ -18,4 +18,4 @@ What alternative do we have to a materialistic, reductionist system? One alterna
 
 Does such a philosophy or belief oppose science? 
 
-No. Science has given us the tools to improve our own lives, and the lives of those around us. It has given us the means to understand the universe. But by no means is it comprehensive. To understand overselves, we need more.
+No. Science has given us the tools to improve our own lives, and the lives of those around us. It has given us the means to understand the universe. But by no means is it comprehensive. To understand ourselves, we need more.
