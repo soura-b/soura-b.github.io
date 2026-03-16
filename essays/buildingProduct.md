@@ -1,8 +1,7 @@
 ---
-layout: post
 title: "Building product"
 ---
-_This post is inspired by advice to a fellow entrepreneur. Now all I need to do is follow it myself._
+_This post is inspired by advice I gave to a fellow entrepreneur. Now all I need to do is follow it myself._
 
 `2023-09-27`
 
