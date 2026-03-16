@@ -1,0 +1,19 @@
+input: .
+output: .retype
+
+url: www.soura.org # Use your website address here
+
+start:
+  # Uncomment the next line to try Retype Pro features
+  # pro: true
+
+branding:
+  title: Words
+  label: essays + stories
+
+links:
+- text: About Me
+  link: https://www.soura.org/about
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."

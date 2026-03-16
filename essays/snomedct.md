@@ -18,11 +18,11 @@ Fast forward to 2021. That year, I started working on a project to develop a pop
 
 Now, the questions became more interesting. How do you classify bacterial pneumonia? Should it be classified as a respiratory disease? Or a bacterial infection? What if it were a hospital-acquired infection? The nature of classification would change how data would be aggregated. This, in turn, could impact how the state of health was measured, and how quality of care was assessed.
 
-ICD-10 was [not up to the task](#user-content-fn-2)[^2]. While it is an effective classification system, it could not represent the nuance in “bacterial pneumonia”.
+ICD-10 was not up to the task[^2]. While it is an effective classification system, it could not represent the nuance in “bacterial pneumonia”.
 
 That is when I came across SNOMED-CT[^3], an ontology that specifically addressed my “pneumonia question”. An ontology is a way to express what something means, by defining entities or concepts, and establishing relationships between them.
 
-SNOMED-CT allows pneumonia to be associated with multiple other concepts — concepts that represent the affected region (respiratory system), the nature of the disease (inflammation), and its cause (bacterial or viral infection). This is illustrated in the [figure below](#user-content-fn-4)[^4].
+SNOMED-CT allows pneumonia to be associated with multiple other concepts — concepts that represent the affected region (respiratory system), the nature of the disease (inflammation), and its cause (bacterial or viral infection). This is illustrated in the figure below[^4].
 
 <figure><img src="../.gitbook/assets/snomed-ct-diagram.png" alt=""><figcaption></figcaption></figure>
 
