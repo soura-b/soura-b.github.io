@@ -1,19 +1,19 @@
 input: .
 output: .retype
 
-url: docs.example.com # Use your website address here
+url: www.soura.org # Use your website address here
 
 start:
   # Uncomment the next line to try Retype Pro features
   # pro: true
 
 branding:
-  title: Project Name
-  label: Docs
+  title: Words
+  label: essays + stories
 
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: About Me
+  link: https://www.soura.org/about
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
