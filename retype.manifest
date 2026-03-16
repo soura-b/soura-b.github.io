@@ -1,0 +1,171 @@
+{
+  "version": "4.0.0",
+  "created": "2026-03-16T08:26:14Z",
+  "files": [
+    {
+      "path": ".gitbook\\assets\\640px-web_of_trust-en.svg.png"
+    },
+    {
+      "path": ".gitbook\\assets\\snomed-ct-diagram.png"
+    },
+    {
+      "path": ".gitbook\\assets\\soura-casual-photo.jpg"
+    },
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "about\\index.html"
+    },
+    {
+      "path": "assets\\640px-web_of_trust-en.svg.png"
+    },
+    {
+      "path": "assets\\foundation.jpg"
+    },
+    {
+      "path": "assets\\innovators-dilemma.jpg"
+    },
+    {
+      "path": "assets\\snomed-ct-diagram.png"
+    },
+    {
+      "path": "assets\\soura_profile_photo.jpg"
+    },
+    {
+      "path": "assets\\soura-casual-photo.jpg"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "essays\\2021-02-04-youngerandelder\\index.html"
+    },
+    {
+      "path": "essays\\anatomyofchange\\index.html"
+    },
+    {
+      "path": "essays\\buildingproduct\\index.html"
+    },
+    {
+      "path": "essays\\circa2014\\index.html"
+    },
+    {
+      "path": "essays\\fearlessness\\index.html"
+    },
+    {
+      "path": "essays\\from-the-mechanization-of-work-to-the-mechanization-of-thought\\index.html"
+    },
+    {
+      "path": "essays\\index.html"
+    },
+    {
+      "path": "essays\\kabirvaani\\index.html"
+    },
+    {
+      "path": "essays\\kalibari\\index.html"
+    },
+    {
+      "path": "essays\\limitsofscience\\index.html"
+    },
+    {
+      "path": "essays\\ondisruption\\index.html"
+    },
+    {
+      "path": "essays\\problemcentricity\\index.html"
+    },
+    {
+      "path": "essays\\productivity\\index.html"
+    },
+    {
+      "path": "essays\\raisingfunds\\index.html"
+    },
+    {
+      "path": "essays\\randomthoughts\\index.html"
+    },
+    {
+      "path": "essays\\snomedct\\index.html"
+    },
+    {
+      "path": "essays\\theoryandpractice\\index.html"
+    },
+    {
+      "path": "essays\\trust-and-digital-identity\\index.html"
+    },
+    {
+      "path": "essays\\writingforaliving\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "short-story\\01-the-short-long-train-ride\\index.html"
+    },
+    {
+      "path": "short-story\\02-the-jungle-lodge\\index.html"
+    },
+    {
+      "path": "short-story\\03-the-boy-who-went-up-the-hill\\index.html"
+    },
+    {
+      "path": "short-story\\04-the-aftermath\\index.html"
+    },
+    {
+      "path": "short-story\\05-the-riverside\\index.html"
+    },
+    {
+      "path": "short-story\\index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "yay-man\\chapter-1-sunday\\index.html"
+    },
+    {
+      "path": "yay-man\\chapter-2-monday\\index.html"
+    }
+  ]
+}

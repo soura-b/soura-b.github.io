@@ -26,7 +26,7 @@ What exactly is this ego that Sant Kabir asks us to discard? The definition offe
 3. _chitta_: the memory — “I recognize this intersection; I remember turning left.”
 4. _ahankara_: the ego, which adds the I, me and mine — “this is _my_ route to work; there is _my_ office, _I_ will take a cab today.”.
 
-Ego has also been described as "that which appropriates to itself, what is not its own". For instance, [when a car hits the one I am in](#user-content-fn-1)[^1], my reaction is, "You hit me!". My sense of ego is so strong that it expanded to include 1,500 kilograms of metal and plastic.
+Ego has also been described as "that which appropriates to itself, what is not its own". For instance, when a car hits the one I am in[^1], my reaction is, "You hit me!". My sense of ego is so strong that it expanded to include 1,500 kilograms of metal and plastic.
 
 Vedanta takes us in the opposite direction. It demonstrates how “I” am neither the body, nor the mind, let alone a motor vehicle.
 
