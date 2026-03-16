@@ -63,7 +63,7 @@ Directions and where to park
 [Head, Heart and Hands: A handbook on leading and managing organizations](https://www.amazon.com/dp/B0CFRDTV12) `2023-08-14`  
 Available on Amazon.com; free for Kindle Unlimited subscribers
 
-![Head, Heart and Hands book cover](https://github.com/soura-b/soura-b.github.io/assets/20471068/1b946035-c98a-42b5-9ab6-19b9451bf612)
+![Head, Heart and Hands book cover](/assets/book-cover.jpg)
 
 ## Short story
 
