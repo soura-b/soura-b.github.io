@@ -12,7 +12,7 @@ I find writing harder than speaking. When I have a conversation with someone, I 
 
 Writing does not have the advantage of immediate feedback. I cannot change direction mid-way, or skip words. Ideas have to built systematically—like a chain, with each link leading to the next. Each link the chain has to be tested and re-tested.
 
-How does writing define what I do? It does so in two ways—[internal and external](#user-content-fn-1)[^1].
+How does writing define what I do? It does so in two ways—internal and external[^1].
 
 The internal orientation consists of writing directed towards my colleagues—sharing ideas, suggesting process improvements, and commenting on designs. By writing consistently, I help build a culture of written communication, where past experiences and current explorations are well-organized. When I write, so do my colleagues. And the more we write, the less we have to rediscover.
 
