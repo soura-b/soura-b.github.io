@@ -12,9 +12,9 @@ These two concepts are often mixed up. When the leaders of a firm talk about inc
 
 The simplest way to do this is to make employees work longer hours, for the same pay.
 
-This is a broken way of looking at the world. 
+This is short-termism at its worst. It is also disrespectful. 
 
-To truly improve productivity, eliminate waste. If waste were something physical, it would be gaseous  — pervading our work silently and stealthily. Eliminating waste requires vigilance.
+To truly improve productivity, we must eliminate waste. If waste were something physical, it would be gaseous  — pervading our work silently and stealthily. Eliminating waste requires vigilance.
 
 In the words of Taiichi Ohni [^1],
 
