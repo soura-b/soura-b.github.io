@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="color-scheme" content="light dark">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.2.0.826972229551">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.6.0.839756406826">
 
     <!-- See retype.com -->
-    <meta name="generator" content="Retype 4.2.0">
+    <meta name="generator" content="Retype 4.6.0">
 
     <!-- Primary Meta Tags -->
     <title>Words</title>
@@ -16,6 +16,7 @@
 
     <!-- Canonical -->
     <link rel="canonical" href="https://www.soura.org/">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="https://www.soura.org/sitemap.xml">
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
@@ -29,13 +30,24 @@
     <meta property="og:site_name" content="Words">
     <meta property="og:locale" content="en_US">
 
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://www.soura.org/">
+    <meta name="twitter:title" content="Words">
+    <meta name="twitter:description" content="\"The difference between the almost right word and the right word is really a large matter—'tis the difference between the lightning-bug and the lightning.”">
+    <meta name="twitter:image" content="https://www.soura.org/assets/book-cover.jpg">
+    <meta name="twitter:image:alt" content="Words">
+
+    <!-- Alternate Markdown -->
+    <link rel="alternate" type="text/markdown" href="https://www.soura.org/readme.md">
+
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="resources/css/retype.css?v=4.2.0.826972229551" rel="stylesheet">
+    <link href="resources/css/retype.css?v=4.6.0.839756406826" rel="stylesheet">
 
-    <script data-cfasync="false" src="resources/js/config.js?v=4.2.0.826972229551" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="resources/js/retype.js?v=4.2.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="resources/js/lunr.js?v=4.2.0.826972229551" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="resources/js/config.js?v=4.6.0.839756406826" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="resources/js/retype.js?v=4.6.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="resources/js/lunr.js?v=4.6.0.839756406826" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -50,7 +62,7 @@
             <!-- Logo -->
             <div class="flex items-center justify-between h-full py-2 md:w-75">
                 <div class="flex items-center px-2 md:px-6">
-                    <a id="retype-branding-logo" href="" class="flex items-center leading-snug text-2xl">
+                    <a id="retype-branding-logo" href="https://www.soura.org/" class="flex items-center leading-snug text-2xl">
                         <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">Words</span>
                     </a><span id="retype-branding-label" class="inline-flex mt-1 px-2 py-1 ml-4 text-xs font-medium leading-none items-center rounded-md bg-branding-label-bg text-branding-label-text ring-1 ring-branding-label-border ring-inset md:inline-block">essays + stories</span>
                 </div>
@@ -135,26 +147,18 @@
 <div class="flex">
     <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
         <main class="relative pb-12 lg:pt-2">
-            <div class="retype-markdown" id="retype-content">
+            <div class="relative retype-markdown" id="retype-content">
                 <!-- Rendered if sidebar right is enabled -->
                 <div id="retype-sidebar-right-toggle"></div>
+                <doc-page-actions></doc-page-actions>
+
                 <!-- Page content  -->
-<doc-anchor-target id="words" class="break-words">
-    <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#words">#</doc-anchor-trigger>
-        <span>Words</span>
-    </h1>
-</doc-anchor-target>
+<h1 id="words">Words</h1>
 <blockquote>
 <p>&quot;The difference between the almost right word and the right word is really a large matter—&#x27;tis the difference between the lightning-bug and the lightning.”<br />
 <em>~ Mark Twain</em></p>
 </blockquote>
-<doc-anchor-target id="essays">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#essays">#</doc-anchor-trigger>
-        <span>Essays</span>
-    </h2>
-</doc-anchor-target>
+<h2 id="essays">Essays</h2>
 <p><a href="essays/from-the-mechanization-of-work-to-the-mechanization-of-thought/">From the mechanization of work to the mechanization of thought</a> <code translate="no" v-pre>2026-02-23</code><br />
 Beyond machines, beyond thought</p>
 <p><a href="essays/trust-and-digital-identity/">Trust and digital identity</a> <code translate="no" v-pre>2025-02-18</code><br />
@@ -189,32 +193,16 @@ Profound yet accessible</p>
 An awfully stretched out dad joke</p>
 <p><a href="essays/kalibari/">Getting to MV Kali Bari</a> <code translate="no" v-pre>timeless</code><br />
 Directions and where to park</p>
-<doc-anchor-target id="book">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#book">#</doc-anchor-trigger>
-        <span>Book</span>
-    </h2>
-</doc-anchor-target>
+<h2 id="book">Book</h2>
 <p><a href="https://www.amazon.com/dp/B0CFRDTV12">Head, Heart and Hands: A handbook on leading and managing organizations</a> <code translate="no" v-pre>2023-08-14</code><br />
 Available on Amazon.com; free for Kindle Unlimited subscribers</p>
-<p><figure class="content-center">
+<figure class="content-center">
     <img src="assets/book-cover.jpg" alt="Head, Heart and Hands book cover" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="400" height="640" />
     <figcaption class="caption">Head, Heart and Hands book cover</figcaption>
 </figure>
-</p>
-<doc-anchor-target id="short-story">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#short-story">#</doc-anchor-trigger>
-        <span>Short story</span>
-    </h2>
-</doc-anchor-target>
+<h2 id="short-story">Short story</h2>
 <p>A work-in-progress <a href="short-story/">novella</a>. Bits and bobs written at present.</p>
-<doc-anchor-target id="publications">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#publications">#</doc-anchor-trigger>
-        <span>Publications</span>
-    </h2>
-</doc-anchor-target>
+<h2 id="publications">Publications</h2>
 <p><a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2807945">National Estimates of the Adult Diabetes Care Continuum in India, 2019-2021</a> <code translate="no" v-pre>2023-07-31</code><br />
 Jithin Sam Varghese, Ranjit Mohan Anjana, Pascal Geldsetzer, Nikkil Sudharsanan, Jennifer Manne-Goehler, Harsha Thirumurthy, Soura Bhattacharyya, K. M. Venkat Narayan, Viswanathan Mohan, Nikhil Tandon, Mohammed K. Ali</p>
 <p><a href="https://link.springer.com/article/10.1007/s41745-022-00354-5">A Strategic Research Framework for Defeating Diabetes in India: A 21st-Century Agenda</a> <code translate="no" v-pre>2023-03-21</code></p>
@@ -286,6 +274,6 @@ Book chapter contributed: Innovative Indigenous Technology</p>
 
     <div id="retype-overlay-target"></div>
 
-    <script data-cfasync="false">window.__DOCS__ = { "title": "Words", isRoot: true, level: 0, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+        <script data-cfasync="false">window.__DOCS__ = { "title": "Words", isRoot: true, level: 0, icon: "file", hasPrism: false, hasInstagram: false, hasMermaid: false, hasMath: false, tocDepth: 23, "md": "/readme.md" }</script>
 </body>
 </html>
